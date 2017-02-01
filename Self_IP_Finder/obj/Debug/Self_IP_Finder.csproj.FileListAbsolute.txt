@@ -1,0 +1,9 @@
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\bin\Debug\Self_IP_Finder.exe.config
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\bin\Debug\Self_IP_Finder.exe
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\bin\Debug\Self_IP_Finder.pdb
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\obj\Debug\Self_IP_Finder.csprojResolveAssemblyReference.cache
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\obj\Debug\Self_IP_Finder.Form1.resources
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\obj\Debug\Self_IP_Finder.Properties.Resources.resources
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\obj\Debug\Self_IP_Finder.csproj.GenerateResource.Cache
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\obj\Debug\Self_IP_Finder.exe
+c:\users\drw\documents\visual studio 2015\Projects\Self_IP_Finder\Self_IP_Finder\obj\Debug\Self_IP_Finder.pdb
